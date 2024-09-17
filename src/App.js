@@ -9,7 +9,7 @@ function App() {
           <h1 className="m-5">Dictionary</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword ="Fall" />
         </main>
         <footer className="app-footer">
           <small>
